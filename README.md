@@ -16,6 +16,7 @@ A simple and responsive **Coffee Shop** website built using only **HTML5** and *
 ## 🛠️ Technologies Used
 
 - **HTML5**
+
 - **CSS3**
 - No frameworks, libraries, or JavaScript used – purely frontend styling with HTML/CSS.
 
@@ -24,6 +25,7 @@ A simple and responsive **Coffee Shop** website built using only **HTML5** and *
 ## 📸 Preview
 
 > _Add screenshots here if available (recommended)_
+> <img width="1214" alt="Website View" src="https://github.com/user-attachments/assets/7c1177a6-3d44-4c9b-a306-aa22eff0b2c4" />
 
 ---
 
@@ -31,4 +33,4 @@ A simple and responsive **Coffee Shop** website built using only **HTML5** and *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coffee-shop.git
+   git clone [https://github.com/yourusername/coffee-shop.git](https://github.com/deepika1998kala/Coffe-Shop-Project.git)
