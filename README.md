@@ -25,7 +25,10 @@ A simple and responsive **Coffee Shop** website built using only **HTML5** and *
 ## 📸 Preview
 
 > _Add screenshots here if available (recommended)_
-> <img width="1214" alt="Website View" src="https://github.com/user-attachments/assets/7c1177a6-3d44-4c9b-a306-aa22eff0b2c4" />
+## 📸 Preview
+
+![Website View](https://github.com/user-attachments/assets/7c1177a6-3d44-4c9b-a306-aa22eff0b2c4)
+
 
 ---
 
